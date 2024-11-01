@@ -1,0 +1,334 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2023-10-04 16:51+0200\n"
+"PO-Revision-Date: 2023-10-04 16:51+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4\n"
+"X-Poedit-Basepath: .\n"
+
+msgid "SMS-fly settings"
+msgstr "Налаштування SMS-fly"
+
+msgid "Gateway setup"
+msgstr "Налаштування шлюзу"
+
+msgid "SMS-fly notifications"
+msgstr "SMS-fly оповіщення"
+
+msgid "Notifications settings"
+msgstr "Налаштування оповіщень"
+
+msgid "SMS-fly & Woocommerce"
+msgstr "SMS-fly та Woocommerce"
+
+msgid "SMS-fly & Contact Form 7"
+msgstr "SMS-fly та Contact Form 7"
+
+msgid "SMS-fly sending sms"
+msgstr "SMS-fly надсилання повідомлення"
+
+msgid "Send sms"
+msgstr "Надіслати СМС"
+
+#smsfly-cf7-settings.php
+msgid "SMS event notification settings for Contact Form 7"
+msgstr "Налаштування СМС оповіщень про події для Contact Form 7"
+
+msgid "Contact Form 7 plugin is not installed!!!"
+msgstr "Плагін Contact Form 7 не встановлено!!!"
+
+msgid "Administrator's phone number"
+msgstr "Телефон адміністратора"
+
+msgid "The phone number of the person to whom the CF7 form will be notified, usually the administrator’s phone number."
+msgstr "Номер телефону того, кому буде повідомлення про відправлену форму CF7, зазвичай телефон адміністратора."
+
+msgid "Sender name"
+msgstr "Ім'я відправника"
+
+msgid "Default"
+msgstr "За замовчуванням"
+
+msgid "Conversion to Latin"
+msgstr "Конвертація в латиницю"
+
+msgid "Set to convert Cyrillic characters to Latin before sending"
+msgstr "Встановіть для заміни кирилиці на латинські перед відправкою"
+
+msgid "Notice to Administrator"
+msgstr "Повідомлення адміністратора"
+
+msgid "Activate"
+msgstr "Активувати"
+
+msgid "Include form submission message"
+msgstr "Увімкнути повідомлення про надіслану форму"
+
+msgid "Message template"
+msgstr "Шаблон повідомлення"
+
+msgid "Enter message template"
+msgstr "Введіть шаблон повідомлення"
+
+msgid "Template examples"
+msgstr "Приклади шаблонів"
+
+msgid "Form submitted to [TIME]"
+msgstr "В [TIME] надіслано форму"
+
+msgid "User [user-name] submitted a form with the text: [user-text]"
+msgstr "Користувач [user-name] надіслав форму з текстом: [user-text]"
+
+msgid "Pattern Substitutions"
+msgstr "Підстановки для шаблону"
+
+msgid "Departure date"
+msgstr "Дата відправки"
+
+msgid "Dispatch time"
+msgstr "Час відправки"
+
+msgid "instead of SHORTCODE, you can use any shortcode of an element of any contact form"
+msgstr "замість SHORTCODE можна використовувати будь-який shortcode елемент будь-якої контактної форми"
+
+msgid "all form contents separated by semicolons"
+msgstr "весь вміст форми, розділений крапкою з комою"
+
+msgid "form content limited to 1 message"
+msgstr "вміст форми обмежений 1 повідомленням"
+
+#smsfly-settings.php
+msgid "Your balance SMS-fly"
+msgstr "Ваш баланс SMS-fly"
+
+msgid "UAH"
+msgstr "грн"
+
+msgid "Your API key on sms-fly"
+msgstr "Ваш ключ API на sms-fly"
+
+#smsfly-site-settings.php
+msgid "Notification about the publication of a new post"
+msgstr "Повідомлення про публікацію нового посту"
+
+msgid "Post update notification"
+msgstr "Повідомлення про оновлення посту"
+
+msgid "Notification about new user registration"
+msgstr "Повідомлення про реєстрацію нового користувача"
+
+msgid "Notification that the user has logged in to the site"
+msgstr "Повідомлення про те, що користувач залогінився на сайті"
+
+msgid "Notification about installing a new plugin"
+msgstr "Повідомлення про встановлення нового плагіна"
+
+msgid "Plugin update notification"
+msgstr "Повідомлення про оновлення плагіна"
+
+msgid "Notification about installing a theme on the site"
+msgstr "Повідомлення про встановлення теми на сайті"
+
+msgid "Topic update notification"
+msgstr "Повідомлення про оновлення теми"
+
+msgid "Settings for SMS notifications about events on the site"
+msgstr "Налаштування СМС сповіщень про події на сайті"
+
+msgid "SMS parameters"
+msgstr "Параметри смс"
+
+msgid "Recipient's phone number"
+msgstr "Телефон одержувача"
+
+msgid "Phone number of the recipient of notification about events on the site, usually the administrator's phone number"
+msgstr "Номер телефону одержувача оповіщення про події на сайті, зазвичай телефон адміністратора"
+
+msgid "Enable conversion of Cyrillic characters to Latin"
+msgstr "Включити конвертацію символів кирилиці в латинські"
+
+msgid "Alert options"
+msgstr "Варіанти оповіщень"
+
+msgid "Select alert type"
+msgstr "Виберіть тип оповіщення"
+
+msgid "Activated"
+msgstr "Активовано"
+
+msgid "Enable for selected alert type"
+msgstr "Увімкнути для оповіщення вибраного типу"
+
+msgid "Specify the SMS message template using the tags below"
+msgstr "Вкажіть шаблон смс повідомлення, використовуючи теги нижче"
+
+msgid "For each type of notification, you can set your own substitutions"
+msgstr "Для кожного виду оповіщення можна встановити свої підстановки"
+
+msgid "author of the post page"
+msgstr "автор сторінки/запису"
+
+msgid "Record page ID number"
+msgstr "ID номер сторінки/запису"
+
+msgid "post page name"
+msgstr "назва сторінки/запису"
+
+msgid "plugin name"
+msgstr "назва плагіна"
+
+msgid "date of action performed"
+msgstr "дата виконаної дії"
+
+msgid "time of action performed"
+msgstr "час дії"
+
+msgid "theme name"
+msgstr "назва теми"
+
+msgid "user's email"
+msgstr "e-mail користувача"
+
+msgid "user's ip"
+msgstr "ip користувача"
+
+#smsfly-sms-settings.php
+msgid "Successfully sent"
+msgstr "Успішно надіслано"
+
+msgid "Manual sending of SMS messages"
+msgstr "Ручна відправка СМС повідомлення"
+
+msgid "Recipient number"
+msgstr "Номер одержувача"
+
+msgid "Enter the recipient's number in the format of the recipient's country"
+msgstr "Введіть номер одержувача у форматі країни одержувача"
+
+msgid "The message text cannot be empty. One message up to 70 Cyrillic or 160 Latin characters"
+msgstr "Текст повідомлення не може бути пустим. Одне повідомлення до 70 кирилиці або 160 латинських символів"
+
+msgid "Message"
+msgstr "Текст повідомлення"
+
+msgid "Save text"
+msgstr "Зберегти текст"
+
+msgid "Do not clear the \"Message text\" field when refreshing the page"
+msgstr "Не очищати поле \"Текст повідомлення\" під час оновлення сторінки"
+
+msgid "Send a message"
+msgstr "Відправити повідомлення"
+
+#smsfly-wc-settings.php
+msgid "SMS event notification settings for WooCommerce"
+msgstr "Налаштування СМС оповіщень про події для WooCommerce"
+
+msgid "Woocommerce plugin not installed!!!"
+msgstr "Плагін Woocommerce не встановлено!!!"
+
+msgid "Activate SMS for WC"
+msgstr "Активувати SMS для WС"
+
+msgid "Enable or disable SMS for woocommerce"
+msgstr "Увімкнути або вимкнути SMS для woocommerce"
+
+msgid "Woocommerce order manager phone number"
+msgstr "Номер телефону менеджера замовлень woocommerce"
+
+msgid "Setting up order statuses"
+msgstr "Налаштування статусів замовлень"
+
+msgid "Woocommerce status"
+msgstr "Статус woocommerce"
+
+msgid "SMS to administrator"
+msgstr "СМС адміністратору"
+
+msgid "Enable SMS notification for administrator"
+msgstr "Увімкнути СМС оповіщення адміністратора"
+
+msgid "Admin SMS Template"
+msgstr "Шаблон СМС адміністратора"
+
+msgid "SMS to client"
+msgstr "СМС клієнту"
+
+msgid "Enable SMS notification to client"
+msgstr "Увімкнути СМС оповіщення клієнта"
+
+msgid "Client SMS template"
+msgstr "Шаблон СМС клієнта"
+
+msgid "Specify the text of the SMS template corresponding to the selected status"
+msgstr "Вкажіть текст шаблону смс, що відповідає вибраному статусу"
+
+msgid "You can use substitutions from order data for templates"
+msgstr "Для шаблонів можна використовувати підстановки з даних замовлення"
+
+msgid "order number"
+msgstr "номер замовлення"
+
+msgid "order price"
+msgstr "сума замовлення"
+
+msgid "Client's email"
+msgstr "E-mail клієнта"
+
+msgid "Client phone number"
+msgstr "Телефон клієнта"
+
+msgid "Client name"
+msgstr "Ім'я клієнта"
+
+msgid "Client's last name"
+msgstr "Прізвище клієнта"
+
+msgid "Client city"
+msgstr "Місто клієнта"
+
+msgid "Client address"
+msgstr "Адреса клієнта"
+
+msgid "Name of shop"
+msgstr "Назва магазину"
+
+msgid "Old status"
+msgstr "Старий статус"
+
+msgid "New status"
+msgstr "Новий статус"
+
+msgid "Event date"
+msgstr "Дата події"
+
+msgid "Event time"
+msgstr "Час події"
+
+#messages
+msgid "Wrong sender's name"
+msgstr "Ім'я відправника помилкове"
+
+msgid "Wrong destination number"
+msgstr "Номер телефону неправильний"
+
+msgid "Empty text"
+msgstr "Текст повідомлення не може бути порожнім"
+
+msgid "Success send"
+msgstr "Повідомлення відправлено"
+
+msgid "Insufficient funds"
+msgstr "Недостатньо коштів"
+
+msgid "Access denied"
+msgstr "Доступ заборонено"
+
+msgid "Number in stop list"
+msgstr "Номер у стоп-листі"

@@ -1,0 +1,352 @@
+# Translation of Plugins - Smsfly - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - Smsfly - Stable (latest release) package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Plugins - Smsfly - Stable (latest release)\n"
+"POT-Creation-Date: 2024-05-29 10:23+0000\n"
+"PO-Revision-Date: 2024-05-29 10:24+0000\n"
+"Last-Translator: \n"
+"Language-Team: Русский\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Loco https://localise.biz/\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Loco-Version: 2.6.9; wp-6.5.3"
+
+msgid "SMS-fly settings"
+msgstr "Настройки SMS-fly"
+
+msgid "Gateway setup"
+msgstr "Настройка шлюза"
+
+msgid "SMS-fly notifications"
+msgstr "SMS-fly оповещения"
+
+msgid "Notifications settings"
+msgstr "Настройка оповещений"
+
+msgid "SMS-fly & Woocommerce"
+msgstr "SMS-fly и Woocommerce"
+
+msgid "SMS-fly & Contact Form 7"
+msgstr "SMS-fly и Contact Form 7"
+
+msgid "SMS-fly sending sms"
+msgstr "SMS-fly отправка сообщения"
+
+msgid "Send sms"
+msgstr "Отправить СМС"
+
+msgid "SMS event notification settings for Contact Form 7"
+msgstr "Настройки СМС оповещений о событиях для Contact Form 7"
+
+msgid "Contact Form 7 plugin is not installed!!!"
+msgstr "Плагин Contact Form 7 не установлен!!!"
+
+msgid "Administrator's phone number"
+msgstr "Телефон администратора"
+
+msgid ""
+"The phone number of the person to whom the CF7 form will be notified, "
+"usually the administrator’s phone number."
+msgstr ""
+"Номер телефона того кому будет оповещение об отправленной форме CF7, обычно "
+"телефон администратора."
+
+msgid "Sender name"
+msgstr "Имя отправителя"
+
+msgid "Default"
+msgstr "По умолчанию"
+
+msgid "Conversion to Latin"
+msgstr "Конвертация в латиницу"
+
+msgid "Set to convert Cyrillic characters to Latin before sending"
+msgstr ""
+"Установите для преобразования киррилических символов в латинские перед "
+"отправкой"
+
+msgid "Notice to Administrator"
+msgstr "Уведомление администратору"
+
+msgid "Activate"
+msgstr "Активировать"
+
+msgid "Include form submission message"
+msgstr "Включить сообщение об отправленной форме"
+
+msgid "Message template"
+msgstr "Шаблон сообщения"
+
+msgid "Enter message template"
+msgstr "Введите шаблон сообщения"
+
+msgid "Template examples"
+msgstr "Примеры шаблонов"
+
+msgid "Form submitted to [TIME]"
+msgstr "В [TIME] отправлена форма"
+
+msgid "User [user-name] submitted a form with the text: [user-text]"
+msgstr "Пользователь [user-name] отправил форму с текстом: [user-text]"
+
+msgid "Pattern Substitutions"
+msgstr "Подстановки для шаблона"
+
+msgid "Departure date"
+msgstr "Дата отправки"
+
+msgid "Dispatch time"
+msgstr "Время отправки"
+
+msgid ""
+"instead of SHORTCODE, you can use any shortcode of an element of any contact "
+"form"
+msgstr ""
+"вместо SHORTCODE можно использовать любой shortcode элемента любой "
+"контактной формы"
+
+msgid "all form contents separated by semicolons"
+msgstr "все содержимое формы, разделенное точкой с запятой"
+
+msgid "form content limited to 1 message"
+msgstr "содержимое формы ограниченное 1 сообщением"
+
+msgid "Your balance SMS-fly"
+msgstr "Ваш баланс SMS-fly"
+
+msgid "UAH"
+msgstr "грн"
+
+msgid "Your API key on sms-fly"
+msgstr "Ваш API ключ на sms-fly"
+
+msgid "Notification about the publication of a new post"
+msgstr "Оповещение о публикации нового поста"
+
+msgid "Post update notification"
+msgstr "Оповещение о обновлении поста"
+
+msgid "Notification about new user registration"
+msgstr "Оповещение о регистрации нового пользователя"
+
+msgid "Notification that the user has logged in to the site"
+msgstr "Оповещение о том что пользователь залогинился на сайте"
+
+msgid "Notification about installing a new plugin"
+msgstr "Оповещение о установке нового плагина"
+
+msgid "Plugin update notification"
+msgstr "Оповещение о обновлении плагина"
+
+msgid "Notification about installing a theme on the site"
+msgstr "Оповещение о установке темы на сайте"
+
+msgid "Topic update notification"
+msgstr "Оповещение о обновлении темы"
+
+msgid "Settings for SMS notifications about events on the site"
+msgstr "Настройки СМС оповещений о событиях на сайте"
+
+msgid "SMS parameters"
+msgstr "Параметры смс"
+
+msgid "Recipient's phone number"
+msgstr "Телефон получателя"
+
+msgid ""
+"Phone number of the recipient of notification about events on the site, "
+"usually the administrator's phone number"
+msgstr ""
+"Номер телефона получателя оповещения о событиях на сайте, обычно телефон "
+"администратора"
+
+msgid "Enable conversion of Cyrillic characters to Latin"
+msgstr "Включить конвертацию кириллических символов в латинские"
+
+msgid "Alert options"
+msgstr "Варианты оповещений"
+
+msgid "Select alert type"
+msgstr "Выберите тип оповещения"
+
+msgid "Activated"
+msgstr "Активировано"
+
+msgid "Enable for selected alert type"
+msgstr "Включить для оповещения выбранного типа"
+
+msgid "Specify the SMS message template using the tags below"
+msgstr "Укажите шаблон смс сообщения используя теги ниже"
+
+msgid "For each type of notification, you can set your own substitutions"
+msgstr "Для каждого вида оповещения можно задать свои подстановки"
+
+msgid "author of the post page"
+msgstr "автор страницы/записи"
+
+msgid "Record page ID number"
+msgstr "ID номер страницы/записи"
+
+msgid "post page name"
+msgstr "название страницы/записи"
+
+msgid "plugin name"
+msgstr "название плагина"
+
+msgid "date of action performed"
+msgstr "дата выполненного действия"
+
+msgid "time of action performed"
+msgstr "время выполненного действия"
+
+msgid "theme name"
+msgstr "название темы"
+
+msgid "user's email"
+msgstr "e-mail пользователя"
+
+msgid "user's ip"
+msgstr "ip пользователя"
+
+msgid "Successfully sent"
+msgstr "Успешно отправлено"
+
+msgid "Manual sending of SMS messages"
+msgstr "Ручная отправка СМС сообщения"
+
+msgid "Recipient number"
+msgstr "Номер получателя"
+
+msgid "Enter the recipient's number in the format of the recipient's country"
+msgstr "Введите номер получателя в формате страны получателя"
+
+msgid ""
+"The message text cannot be empty. One message up to 70 Cyrillic or 160 Latin "
+"characters"
+msgstr ""
+"Текст сообщения не может быть пустым. Одно сообщение до 70 кирилических или "
+"160 латинских символов"
+
+msgid "Message"
+msgstr "Текст сообщения"
+
+msgid "Save text"
+msgstr "Сохранить текст"
+
+msgid "Do not clear the \"Message text\" field when refreshing the page"
+msgstr "Не очищать поле \"Текст сообщения\" при обновлении страницы"
+
+msgid "Send a message"
+msgstr "Отправить сообщение"
+
+msgid "SMS event notification settings for WooCommerce"
+msgstr "Настройки СМС оповещений о событиях для WooCommerce"
+
+msgid "Woocommerce plugin not installed!!!"
+msgstr "Плагин Woocommerce не установлен!!!"
+
+msgid "Activate SMS for WC"
+msgstr "Активировать СМС для WС"
+
+msgid "Enable or disable SMS for woocommerce"
+msgstr "Включить или отключить СМС для woocommerce"
+
+msgid "Woocommerce order manager phone number"
+msgstr "Номер телефона менеджера заказов woocommerce"
+
+msgid "Setting up order statuses"
+msgstr "Настройка статусов заказов"
+
+msgid "Woocommerce status"
+msgstr "Статус woocommerce"
+
+msgid "SMS to administrator"
+msgstr "СМС администратору"
+
+msgid "Enable SMS notification for administrator"
+msgstr "Включить СМС оповещение администратора"
+
+msgid "Admin SMS Template"
+msgstr "Шаблон СМС администратора"
+
+msgid "SMS to client"
+msgstr "СМС клиенту"
+
+msgid "Enable SMS notification to client"
+msgstr "Включить СМС оповещение клиента"
+
+msgid "Client SMS template"
+msgstr "Шаблон СМС клиента"
+
+msgid ""
+"Specify the text of the SMS template corresponding to the selected status"
+msgstr "Укажите текст шаблона смс соответсвующий выбранному статусу"
+
+msgid "You can use substitutions from order data for templates"
+msgstr "Для шаблонов можно использовать подстановки из данных заказа"
+
+msgid "order number"
+msgstr "номер заказа"
+
+msgid "order price"
+msgstr "сумма заказа"
+
+msgid "Client's email"
+msgstr "E-mail клиента"
+
+msgid "Client phone number"
+msgstr "Телефон клиента"
+
+msgid "Client name"
+msgstr "Имя клиента"
+
+msgid "Client's last name"
+msgstr "Фамилия клиента"
+
+msgid "Client city"
+msgstr "Город клиента"
+
+msgid "Client address"
+msgstr "Адрес клиента"
+
+msgid "Name of shop"
+msgstr "Название магазина"
+
+msgid "Old status"
+msgstr "Старый статус"
+
+msgid "New status"
+msgstr "Новый статус"
+
+msgid "Event date"
+msgstr "Дата события"
+
+msgid "Event time"
+msgstr "Время события"
+
+msgid "Wrong sender's name"
+msgstr "Имя отправителя ошибочно"
+
+msgid "Wrong destination number"
+msgstr "Номер телефона не верный"
+
+msgid "Empty text"
+msgstr "Текст сообщения не может быть пустым"
+
+msgid "Success send"
+msgstr "Сообщение отправлено"
+
+msgid "Insufficient funds"
+msgstr "Недостаточно средств"
+
+msgid "Access denied"
+msgstr "Доступ запрещен"
+
+msgid "Number in stop list"
+msgstr "Номер в стоп-листе"

@@ -1,0 +1,451 @@
+# Translation of Plugins - SMS-Fly для WordPress - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - SMS-Fly для WordPress - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-05-29 10:19+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10 >= 2 && n%10<=4 "
+"&&(n%100<10||n%100 >= 20)? 1 : 2);\n"
+"X-Generator: Loco https://localise.biz/\n"
+"Language: pl_PL\n"
+"Project-Id-Version: Plugins - SMS-Fly для WordPress - Stable (latest release)"
+"\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-05-29 10:14+0000\n"
+"Last-Translator: \n"
+"Language-Team: Polish\n"
+"X-Loco-Version: 2.6.9; wp-6.5.3\n"
+"X-Loco-Fallback: ru_RU\n"
+"X-Loco-Template: ../../languages/plugins/smsfly-ru_RU.po\n"
+"X-Loco-Template-Mode: POT,JSON"
+
+#: includes/smsfly-cf7-settings.php:73
+msgid "Activate"
+msgstr "Aktywuj"
+
+#: includes/smsfly-wc-settings.php:44
+msgid "Activate SMS for WC"
+msgstr "Aktywuj SMS do toalety"
+
+#: includes/smsfly-site-settings.php:112
+msgid "Activated"
+msgstr "Aktywny"
+
+#: includes/smsfly-wc-settings.php:109
+msgid "Admin SMS Template"
+msgstr "Adwokat SMS Template"
+
+#: includes/smsfly-cf7-settings.php:44 includes/smsfly-wc-settings.php:51
+msgid "Administrator's phone number"
+msgstr "Numer telefonu administratora"
+
+#: includes/smsfly-site-settings.php:88
+msgid "Alert options"
+msgstr "Opcje ostrzeżenia"
+
+#: includes/smsfly-wc-settings.php:119
+msgid "Client SMS template"
+msgstr "Klient SMS szablon"
+
+#: includes/smsfly-wc-settings.php:134
+msgid "Client address"
+msgstr "Adres klienta"
+
+#: includes/smsfly-wc-settings.php:133
+msgid "Client city"
+msgstr "Miasto klienta"
+
+#: includes/smsfly-wc-settings.php:131
+msgid "Client name"
+msgstr "Nazwa klienta"
+
+#: includes/smsfly-wc-settings.php:130
+msgid "Client phone number"
+msgstr "Numer telefonu klienta"
+
+#: includes/smsfly-wc-settings.php:129
+msgid "Client's email"
+msgstr "e-mail klienta"
+
+#: includes/smsfly-wc-settings.php:132
+msgid "Client's last name"
+msgstr "Ostatnie nazwisko klienta"
+
+#: includes/smsfly-cf7-settings.php:11
+msgid "Contact Form 7 plugin is not installed!!!"
+msgstr "Formularz kontaktowy 7 Plugin nie jest zainstalowany!!Aż do !"
+
+#: includes/smsfly-cf7-settings.php:65 includes/smsfly-site-settings.php:82
+#: includes/smsfly-wc-settings.php:72
+msgid "Conversion to Latin"
+msgstr "Konwersja do łacińskiego"
+
+#: includes/smsfly-cf7-settings.php:94
+msgid "Departure date"
+msgstr "Data wyjazdu"
+
+#: includes/smsfly-cf7-settings.php:95
+msgid "Dispatch time"
+msgstr "Czas wysyłki"
+
+#: includes/smsfly-sms-settings.php:66
+msgid "Do not clear the \"Message text\" field when refreshing the page"
+msgstr "Nie wyczyść pola \"Teks wiadomości\" podczas odświeżania strony"
+
+#: includes/smsfly-wc-settings.php:106
+msgid "Enable SMS notification for administrator"
+msgstr "Umożliwienie powiadomienia SMS dla administratora"
+
+#: includes/smsfly-wc-settings.php:116
+msgid "Enable SMS notification to client"
+msgstr "Umożliwia SMS powiadomienia do klienta"
+
+#: includes/smsfly-site-settings.php:86 includes/smsfly-wc-settings.php:76
+msgid "Enable conversion of Cyrillic characters to Latin"
+msgstr "Umożliwia konwersję znaków cyrylskich do łacińskiego"
+
+#: includes/smsfly-site-settings.php:114
+msgid "Enable for selected alert type"
+msgstr "Możliwość wybranego typu ostrzegawczego"
+
+#: includes/smsfly-wc-settings.php:48
+msgid "Enable or disable SMS for woocommerce"
+msgstr "Umożliwia lub wyłącza SMS dla Woocommerce"
+
+#: includes/smsfly-cf7-settings.php:82
+msgid "Enter message template"
+msgstr "Wprowadź szablon wiadomości"
+
+#: includes/smsfly-sms-settings.php:56
+msgid "Enter the recipient's number in the format of the recipient's country"
+msgstr "Wprowadź numer odbiorcy w formacie kraju odbiorcy"
+
+#: includes/smsfly-wc-settings.php:138
+msgid "Event date"
+msgstr "Data wydarzenia"
+
+#: includes/smsfly-wc-settings.php:139
+msgid "Event time"
+msgstr "Czas wydarzeń"
+
+#: includes/smsfly-site-settings.php:122
+msgid "For each type of notification, you can set your own substitutions"
+msgstr "Dla każdego rodzaju powiadomienia możesz ustawić własne zastępstwa."
+
+#: includes/smsfly-cf7-settings.php:85
+msgid "Form submitted to [TIME]"
+msgstr "Formularz wysłany do [czas]"
+
+#: includes/settings.php:7
+msgid "Gateway setup"
+msgstr "Ustawienie Gateway"
+
+#: includes/smsfly-cf7-settings.php:77
+msgid "Include form submission message"
+msgstr "Włącz formularz przesłania"
+
+#: includes/smsfly-sms-settings.php:24
+msgid "Manual sending of SMS messages"
+msgstr "Ręczne wysyłanie wiadomości SMS"
+
+#: includes/smsfly-sms-settings.php:59
+msgid "Message"
+msgstr "Przesłanie"
+
+#: includes/smsfly-cf7-settings.php:80 includes/smsfly-site-settings.php:117
+msgid "Message template"
+msgstr "Przesłanie Template"
+
+#: includes/smsfly-wc-settings.php:135
+msgid "Name of shop"
+msgstr "Nazwa sklepu"
+
+#: includes/smsfly-wc-settings.php:137
+msgid "New status"
+msgstr "Nowy status"
+
+#: includes/smsfly-cf7-settings.php:71
+msgid "Notice to Administrator"
+msgstr "Ostrzeżenie dla administratora"
+
+#: includes/smsfly-site-settings.php:35
+msgid "Notification about installing a new plugin"
+msgstr "Informacja o zainstalowaniu nowego plugina"
+
+#: includes/smsfly-site-settings.php:37
+msgid "Notification about installing a theme on the site"
+msgstr "Powiadomienie o zainstalowaniu tematu na stronie"
+
+#: includes/smsfly-site-settings.php:33
+msgid "Notification about new user registration"
+msgstr "Powiadomienie o nowej rejestracji użytkownika"
+
+#: includes/smsfly-site-settings.php:31
+msgid "Notification about the publication of a new post"
+msgstr "Oświadczenie o publikacji nowego postu"
+
+#: includes/smsfly-site-settings.php:34
+msgid "Notification that the user has logged in to the site"
+msgstr "Powiadomienie, że użytkownik zalogował się na stronie"
+
+#: includes/settings.php:8
+msgid "Notifications settings"
+msgstr "Ustawienia powiadomień"
+
+#: includes/smsfly-wc-settings.php:136
+msgid "Old status"
+msgstr "Stary status"
+
+#: includes/smsfly-site-settings.php:65
+msgid ""
+"Phone number of the recipient of notification about events on the site, "
+"usually the administrator's phone number"
+msgstr ""
+"Numer telefonu odbiorcy powiadomienia o wydarzeniach na stronie, zazwyczaj "
+"numer telefonu administratora"
+
+#: includes/smsfly-site-settings.php:36
+msgid "Plugin update notification"
+msgstr "Plugin Aktualizacja"
+
+#: includes/smsfly-site-settings.php:32
+msgid "Post update notification"
+msgstr "Post aktualizacja powiadomienia"
+
+#: includes/smsfly-sms-settings.php:54
+msgid "Recipient number"
+msgstr "Liczba odbiorców"
+
+#: includes/smsfly-site-settings.php:61
+msgid "Recipient's phone number"
+msgstr "Numer telefonu odbiorcy"
+
+#: includes/smsfly-site-settings.php:16
+msgid "Record page ID number"
+msgstr "Numer rejestracyjny strony ID"
+
+#: includes/smsfly-cf7-settings.php:9 includes/smsfly-cf7-settings.php:28
+msgid "SMS event notification settings for Contact Form 7"
+msgstr ""
+"Ustawienia powiadomienia o wydarzeniach SMS dla formularza kontaktowego 7"
+
+#: includes/smsfly-wc-settings.php:8 includes/smsfly-wc-settings.php:28
+msgid "SMS event notification settings for WooCommerce"
+msgstr "Ustawienia powiadomienia o wydarzeniach SMS dla Woocommerce"
+
+#: includes/smsfly-site-settings.php:57
+msgid "SMS parameters"
+msgstr "Parametry SMS"
+
+#: includes/smsfly-wc-settings.php:104
+msgid "SMS to administrator"
+msgstr "SMS do administratora"
+
+#: includes/smsfly-wc-settings.php:114
+msgid "SMS to client"
+msgstr "SMS do klienta"
+
+#: includes/settings.php:10
+msgid "SMS-fly & Contact Form 7"
+msgstr "SMS-Fly i formularz kontaktowy 7"
+
+#: includes/settings.php:9
+msgid "SMS-fly & Woocommerce"
+msgstr "SMS-Fly i Woocommerce"
+
+#: includes/settings.php:8
+msgid "SMS-fly notifications"
+msgstr "Powiadomienia SMS-Fly"
+
+#: includes/settings.php:11
+msgid "SMS-fly sending sms"
+msgstr "Sms-Fly wysyłanie SMS"
+
+#: includes/settings.php:6 includes/settings.php:7
+msgid "SMS-fly settings"
+msgstr "Ustawienia SMS-Fly"
+
+#: includes/smsfly-sms-settings.php:64
+msgid "Save text"
+msgstr "Zachowaj tekst"
+
+#: includes/smsfly-site-settings.php:90
+msgid "Select alert type"
+msgstr "Wybierz typ alarmowy"
+
+#: includes/smsfly-sms-settings.php:69
+msgid "Send a message"
+msgstr "Wyślij wiadomość"
+
+#: includes/settings.php:11
+msgid "Send sms"
+msgstr "Wysyłanie SMS"
+
+#: includes/smsfly-cf7-settings.php:51 includes/smsfly-site-settings.php:68
+#: includes/smsfly-sms-settings.php:40 includes/smsfly-wc-settings.php:58
+msgid "Sender name"
+msgstr "Nazwa nadawcy"
+
+#: includes/smsfly-cf7-settings.php:69
+msgid "Set to convert Cyrillic characters to Latin before sending"
+msgstr "Zestaw do konwersji znaków cyrylskich do łacińskiego przed wysłaniem"
+
+#: includes/smsfly-wc-settings.php:79
+msgid "Setting up order statuses"
+msgstr "Ustawienie statusu porządku"
+
+#: includes/smsfly-site-settings.php:42
+msgid "Settings for SMS notifications about events on the site"
+msgstr "Ustawienia wiadomości SMS powiadomienia o wydarzeniach na stronie"
+
+#: includes/smsfly-site-settings.php:119
+msgid "Specify the SMS message template using the tags below"
+msgstr "Określ szablon wiadomości SMS za pomocą poniższych etykiet"
+
+#: includes/smsfly-wc-settings.php:111 includes/smsfly-wc-settings.php:121
+msgid ""
+"Specify the text of the SMS template corresponding to the selected status"
+msgstr "Określenie tekstu szablonu SMS odpowiadającego wybranemu statusowi"
+
+#: includes/smsfly-cf7-settings.php:84
+msgid "Template examples"
+msgstr "Przykłady szablonów"
+
+#: includes/smsfly-sms-settings.php:61
+msgid ""
+"The message text cannot be empty. One message up to 70 Cyrillic or 160 Latin "
+"characters"
+msgstr ""
+"Tekst wiadomości nie może być pusty. Jedna wiadomość do 70 znaków "
+"cyrylicznych lub 160 znaków łacińskich"
+
+#: includes/smsfly-cf7-settings.php:48
+msgid ""
+"The phone number of the person to whom the CF7 form will be notified, "
+"usually the administrator’s phone number."
+msgstr ""
+"Numer telefonu osoby, do której formularz Cf7 zostanie powiadomiony, "
+"zazwyczaj numer telefonu administratora."
+
+#: includes/smsfly-site-settings.php:38
+msgid "Topic update notification"
+msgstr "Aktualizacja tematyczna"
+
+#: includes/smsfly-cf7-settings.php:86
+msgid "User [user-name] submitted a form with the text: [user-text]"
+msgstr ""
+"Użytkownik [Użytkownik-Nazwa] złożył formularz z tekstem: [Użytkownik-Nazwa]"
+
+#: includes/smsfly-wc-settings.php:55
+msgid "Woocommerce order manager phone number"
+msgstr "Woocommerce numer telefonu menedżera zamówienia"
+
+#: includes/smsfly-wc-settings.php:9
+msgid "Woocommerce plugin not installed!!!"
+msgstr "Plugin Woocommerce nie jest zainstalowany!!Aż do !"
+
+#: includes/smsfly-wc-settings.php:82
+msgid "Woocommerce status"
+msgstr "Status Woocommerce"
+
+#: includes/smsfly-wc-settings.php:125
+msgid "You can use substitutions from order data for templates"
+msgstr "Możesz użyć zastępstw z danych zamówienia dla szablonów"
+
+#: includes/smsfly-settings.php:30
+msgid "Your API key on sms-fly"
+msgstr "Twój klucz API na SMS-fly"
+
+#: includes/smsfly-settings.php:3
+msgid "Your balance SMS-fly"
+msgstr "Twoja równowaga SMS-Fly"
+
+#: includes/smsfly-cf7-settings.php:97
+msgid "all form contents separated by semicolons"
+msgstr "Wszystkie formy zawartości oddzielone przez Semicolons"
+
+#: includes/smsfly-site-settings.php:11
+msgid "author of the post page"
+msgstr "Autor strony postowej"
+
+#: includes/smsfly-site-settings.php:12
+msgid "date of action performed"
+msgstr "Data wykonania działań"
+
+#: includes/smsfly-cf7-settings.php:98
+msgid "form content limited to 1 message"
+msgstr "Zawartość formularza ograniczona do 1 wiadomości"
+
+#: includes/smsfly-cf7-settings.php:96
+msgid ""
+"instead of SHORTCODE, you can use any shortcode of an element of any contact "
+"form"
+msgstr ""
+"Zamiast kodu krótkiego możesz użyć dowolnego kodu krótkiego elementu "
+"dowolnego formularza kontaktowego."
+
+#: includes/smsfly-wc-settings.php:127
+msgid "order number"
+msgstr "Numer zamówienia"
+
+#: includes/smsfly-wc-settings.php:128
+msgid "order price"
+msgstr "Cena zamówienia"
+
+#: includes/smsfly-site-settings.php:24
+msgid "plugin name"
+msgstr "Plugin nazwa"
+
+#: includes/smsfly-site-settings.php:17
+msgid "post page name"
+msgstr "Nazwa strony post"
+
+#: includes/smsfly-site-settings.php:27
+msgid "theme name"
+msgstr "Nazwa tematu"
+
+#: includes/smsfly-site-settings.php:13
+msgid "time of action performed"
+msgstr "Czas wykonywania działań"
+
+#: includes/smsfly-site-settings.php:20
+msgid "user's email"
+msgstr "e-mail użytkownika"
+
+#: includes/smsfly-site-settings.php:21
+msgid "user's ip"
+msgstr "IP Użytkownika"
+
+#: includes/smsfly-cf7-settings.php:22 includes/smsfly-settings.php:9
+#: includes/smsfly-site-settings.php:6 includes/smsfly-wc-settings.php:20
+msgid "Settings saved."
+msgstr "Ustawienia zostały uratowane."
+
+#. Author of the plugin
+msgid "SMS-fly Dev"
+msgstr "Sms-Fly Dev"
+
+#. Plugin URI of the plugin
+msgid "https://sms-fly.ua"
+msgstr "https://sms-fly.pl"
+
+#. Plugin Name of the plugin
+msgid "SMS-fly for Wordpress"
+msgstr "SMS-Fly dla Wordpress"
+
+#. Description of the plugin
+msgid "SMS and Viber messages using the SMS-fly service"
+msgstr "SMS i wiadomości Viber za pomocą usługi SMS-Fly"
+
+#: includes/smsfly-cf7-settings.php:19 includes/smsfly-settings.php:14
+#: includes/smsfly-site-settings.php:4 includes/smsfly-sms-settings.php:4
+#: includes/smsfly-wc-settings.php:17
+msgid "You do not have sufficient permissions to manage options for this site."
+msgstr ""
+"Nie masz wystarczających zezwoleń na zarządzanie opcjami dla tej strony."
+
+#: includes/smsfly-settings.php:3
+msgid "UAH"
+msgstr "Uah"
